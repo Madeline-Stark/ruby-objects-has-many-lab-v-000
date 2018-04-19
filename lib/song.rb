@@ -14,7 +14,4 @@ class Song
     self.artist.name
   end
 
-  #def self.artist_name
-    #self.artist.name
-  #end
 end
