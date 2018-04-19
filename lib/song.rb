@@ -10,7 +10,11 @@ class Song
     @artist
   end
 
-  def self.artist_name
+  def artist_name
     self.artist.name
   end
+
+  #def self.artist_name
+    #self.artist.name
+  #end
 end
